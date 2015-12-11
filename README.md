@@ -16,4 +16,4 @@ Submit a pull request if you want to add your own project.
 - [py-typeformio](https://github.com/Vidimensional/py-typeformio) - Unofficial Python client
 - [Typeform iOS](https://github.com/r3trosteve/typeform-ios) - Small iOS application for creating and managing typeforms via Typeform.io and Parse
 - [Prettyizer](https://github.com/freemanoid/prettyizer) - Convert any Google Form into a Typeform
-- [TypeFormIoCsharp](https://github.com/joselinoneto/TypeFormIoCsharp) - Inofficial C# client
+- [TypeFormIoCsharp](https://github.com/joselinoneto/TypeFormIoCsharp) - Unofficial C# client
