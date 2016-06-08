@@ -8,7 +8,7 @@ Submit a pull request if you want to add your own project.
 # Projects
 
 - [Speakform](https://github.com/leemachin/speakform) - Create typeform via voice commands
-- [Typeform API Client](https://github.com/germanrcuriel/typeform-api-client) - Unofficial nodejs client
+- [Typeform Node](https://www.npmjs.com/package/typeform) - Unofficial Typeform Node API
 - [Ask Awesomely](https://github.com/leemachin/ask_awesomely) - Unofficial Ruby DSL
 - [Typeform Ruby](https://github.com/rejasupotaro/typeform-ruby) - Unofficial Ruby client
 - [Typeform Stamplay Demo](https://github.com/Stamplay/typeform-demo) - Demo on how to use Typeform I/O and Stamplay together
