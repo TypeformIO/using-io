@@ -1,3 +1,6 @@
+# Sorry, Typeform I/O will be deprecated soon. Please visit https://developer.typeform.com/ to discover our new developer products
+
+
 # Projects using Typeform I/O
 Projects that are using Typeform I/O currently
 
